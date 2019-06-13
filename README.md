@@ -10,8 +10,7 @@ Installation:
   Install libqd-dev
   		sudo apt-get install libqd-dev
   
-
-2.Then you need to install DPMI_Utils
+ 2.Then you need to install DPMI_Utils
 		git clone https://github.com/DPMI/libcap_utils.git
 		cd libcap_utils
 		autoreconf -si
